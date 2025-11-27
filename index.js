@@ -7,6 +7,7 @@ const fullName = 'Rudy M. Esperida Jr.';
 const classSection = 'BSIT Network Technology - 4101 (Group 4)';
 const quote = 'Learning is a never-ending process.';
 
+
 app.get('/', (req, res) => {
   res.send(`
 <!DOCTYPE html>
